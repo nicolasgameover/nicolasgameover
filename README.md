@@ -10,7 +10,7 @@
 
 ---
 
-<h1style="color:green; background-color:black;"> Meu idioma nativo é portugues brasileiro</h1>
+<h1 style="color:green; background-color:black;"> Meu idioma nativo é portugues brasileiro</h1>
 <h1> Also i'm current learning English and German Languages</h1>
 
 <!---
