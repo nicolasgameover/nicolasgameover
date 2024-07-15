@@ -8,6 +8,8 @@
 `-Tenho interesse em Linux`
 `-Atualmente estou estudando Programação`
 
+---
+
 <body style="color:green; background-color:black;">
   <h1> Meu idioma nativo é portugues brasileiro</h1>
   <h1> Also i'm current learning English and German Languages</h1>
