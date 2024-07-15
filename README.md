@@ -10,10 +10,9 @@
 
 ---
 
-<body style="color:green; background-color:black;">
-  <h1> Meu idioma nativo é portugues brasileiro</h1>
-  <h1> Also i'm current learning English and German Languages</h1>
-</>body>
+<h1style="color:green; background-color:black;"> Meu idioma nativo é portugues brasileiro</h1>
+<h1> Also i'm current learning English and German Languages</h1>
+
 <!---
 nicolasgameover/nicolasgameover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
