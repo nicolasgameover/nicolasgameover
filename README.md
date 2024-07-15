@@ -1,3 +1,5 @@
+# Hello, World!
+
 - 👋Hi, I’m @nicolasgameover
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning Programming
@@ -5,6 +7,9 @@
 `-Meu nome é Nicolas`
 `-Tenho interesse em Linux`
 `-Atualmente estou estudando Programação`
+
+<h1> Meu idioma nativo é portugues brasileiro</h1>
+<h1> Also i'm current learning English and German Languages
 
 <!---
 nicolasgameover/nicolasgameover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
