@@ -65,7 +65,7 @@ let numeros = [1, 2, 3, 4, 5];
 let frutas = ["maçã", "banana", "laranja"];
 ```
 
-#Function
+# Function
 
 Uma function (função) é um bloco de código que pode ser chamado e executado em qualquer momento. Funções permitem reutilização de código e podem aceitar argumentos e retornar valores. Por exemplo:
 
