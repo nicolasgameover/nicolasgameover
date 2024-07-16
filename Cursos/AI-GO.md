@@ -1,3 +1,5 @@
+**Claro! Vamos explicar alguns conceitos fundamentais da linguagem Go: string, boolean, null, undefined, object, array, e function.**
+
 # String
 Em Go, uma string é uma sequência de caracteres usada para representar texto. Você pode criar uma string colocando o texto entre aspas duplas ("). Por exemplo:
 
