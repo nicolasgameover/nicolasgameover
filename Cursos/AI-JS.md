@@ -1,9 +1,9 @@
 ---
 
-<h1> Claro! Vamos explicar alguns conceitos fundamentais do JavaScript: string, boolean, null, undefined, object, array, e function. </h1>
+**Claro! Vamos explicar alguns conceitos fundamentais do JavaScript: string, boolean, null, undefined, object, array, e function.**
 
 # String
-No JavaScript, uma string é uma sequência de caracteres usada para representar texto. Você pode criar uma string colocando o texto entre aspas simples ('), aspas duplas ("), ou crases (`) para template literals. Por exemplo:
+No JavaScript, uma string é uma sequência de caracteres usada para representar texto. Você pode criar uma string colocando o texto entre aspas simples ('), aspas duplas ("), ou crases (\`) para template literals. Por exemplo:
 
 javascript<br>
 
