@@ -1,5 +1,3 @@
----
-
 **Claro! Vamos explicar alguns conceitos fundamentais do JavaScript: string, boolean, null, undefined, object, array, e function.**
 
 # String
