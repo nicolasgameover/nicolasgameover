@@ -4,9 +4,9 @@
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning Programming
 
-`-Meu nome é Nicolas`
-`-Tenho interesse em Linux`
-`-Atualmente estou estudando Programação`
+`-Meu nome é Nicolas`<br>
+`-Tenho interesse em Linux`<br>
+`-Atualmente estou estudando Programação`<br>
 
 ---
 
