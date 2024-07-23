@@ -1,6 +1,0 @@
-Enable Reader Mode
-GPU Rasterization
-Zero-Copy Rasterization
-Enable Parallel Downloading
-Enable Smooth Scrolling
-Enable Experimental QUIC Protocol
