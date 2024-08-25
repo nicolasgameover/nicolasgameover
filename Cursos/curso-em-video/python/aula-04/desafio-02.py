@@ -1,5 +1,0 @@
-print('======= DESAFIO 02 =======')
-dia = input('Você nasceu em qual dia ?')
-mes = input('Em qual mês você nasceu ?')
-ano = input('Em qual ano você nasceu ?')
-print('Você nasceu no dia', dia, 'de', mes, 'de', ano)
